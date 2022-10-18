@@ -22,15 +22,6 @@ li {
 
 .navigation {
   position: absolute;
-  /* left: 0;
-  top: 0;
-  transform:translateY(50px, 100vw) */
-  /* 
-  width: calc(100vw - 200px); */
-  /* max-width: 1160px;
-  min-width: 100px; */
-  /* width: clamp(100vw - 1000px, 1160px, 1160px); */
-  /* width: 100vw; */
   width: calc(100% - 60px);
   display: flex;
   justify-content: space-between;
