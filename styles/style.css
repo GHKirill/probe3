@@ -23,7 +23,12 @@ li {
 }
 
 .navigation {
+
   width: 100%;
+
+  position: absolute;
+  width: calc(100% - 60px);
+
   display: flex;
   justify-content: space-between;
   align-items: center;
